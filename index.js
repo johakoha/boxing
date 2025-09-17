@@ -17,5 +17,11 @@ GIT COMMANDS
 
   git branch
   git branch master
+
+  git remote
+  git remote add origin <url>
+  git remote
+
+  git push origin master
   
 */
